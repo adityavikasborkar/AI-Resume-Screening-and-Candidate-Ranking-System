@@ -27,11 +27,5 @@ This project is an NLP-based automated resume screening system that ranks candid
 5. Similarity computation
 6. Ranking generation
 
-## 📂 Project Structure
-(mention folder tree here)
 
-## ▶️ How to Run
 
-```bash
-pip install -r requirements.txt
-python main.py
