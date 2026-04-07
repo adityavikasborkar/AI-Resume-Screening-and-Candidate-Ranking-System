@@ -26,6 +26,3 @@ This project is an NLP-based automated resume screening system that ranks candid
 4. TF-IDF transformation
 5. Similarity computation
 6. Ranking generation
-
-
-
